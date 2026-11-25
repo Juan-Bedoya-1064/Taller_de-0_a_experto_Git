@@ -1,1 +1,1 @@
-Escenario: Oficina remota
+Escenario: Oficina remota, con cafe de por medio
