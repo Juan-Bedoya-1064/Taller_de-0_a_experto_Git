@@ -1,2 +1,2 @@
-puerto=8080
+puerto=3000
 entorno=desarrollo
