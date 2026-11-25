@@ -1,1 +1,1 @@
-Capitulo 1: El equipo que nunca hacia merge
+Capitulo 1: El equipo que finalmente entendio las ramas
