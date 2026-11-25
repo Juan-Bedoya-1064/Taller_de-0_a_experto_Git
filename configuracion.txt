@@ -1,2 +1,4 @@
-puerto=3000
+puerto=8080
 entorno=desarrollo
+# Nota: se mantiene el puerto base (8080).
+# Los puertos 3000 y 9090 eran solo para pruebas locales de cada feature.
